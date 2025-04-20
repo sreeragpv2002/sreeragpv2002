@@ -1,16 +1,22 @@
 ## 👋 Hi, I'm SREERAG P V!
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&vCenter=true&width=800&lines=Full-Stack+Developer;Django+and+React+Enthusiast%2C+Tech+Explorer%2C+Building+APIs%2C+SQL;Python%2C+MongoDB%2C+Javascript%2C+SQL;Building+Scalable+Web+Applications!🚀)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&vCenter=true&width=800&lines=Python+Backend+Developer+@Nthindex;Django+%7C+DRF+%7C+API+Development;Database+Optimization+%7C+Security+Best+Practices;Building+Scalable+Backend+Systems!🚀)
 
-I am a **self-taught full-stack developer** passionate about building scalable web applications and solving real-world problems with technology. My expertise lies in **Python, Django, React, and modern web technologies**, and I thrive on learning and adapting to new challenges.
+I’m a **Python Backend Developer** at [Nthindex Software Solutions](https://www.nthindex.com), specializing in **Django, REST APIs, and database performance**. My passion lies in architecting robust, secure backend systems and solving complex technical challenges with clean, efficient code.
 
-I enjoy designing and developing efficient, user-friendly applications, whether it's an **e-commerce platform, an admin dashboard, or an interactive front-end experience**. My problem-solving mindset, combined with my commitment to writing **clean, maintainable code**, drives me to build high-quality projects.
+### 🎓 Background
+- **B.Voc in Data Science**  
+- **Certified in Penetration Testing** (Security-focused mindset)  
+- **Professional Training**: Django REST Framework, PostgreSQL/MySQL  
 
-🔹 Currently, I am exploring **AWS, security, scalability, and system design** to enhance my understanding of high-performance application architecture.  
-🔹 I actively contribute to **open-source projects**, technical discussions, and knowledge sharing.  
-🔹 My goal is to create impactful software solutions and continuously grow as a developer.  
-
-**“The best way to predict the future is to create it.” — Alan Kay**  
+### 💼 Current Role  
+**Python Web Developer @ Nthindex Software Solutions LLP** (From 18-05-2024)  
+✔ **Core Responsibilities** (Per Offer Letter):  
+- Design & develop **high-performance RESTful APIs** using Django/DRF.  
+- Optimize **SQL queries** (PostgreSQL/MySQL) and ensure database efficiency.  
+- Implement **authentication, authorization, and security** best practices.  
+- Debug, troubleshoot, and resolve backend issues.  
+- Mentor interns and contribute to **system architecture**.  
 
 
 ---
