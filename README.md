@@ -18,20 +18,8 @@ I’m a **Python Backend Developer** at [Nthindex Software Solutions](https://ww
 - Mentor interns and contribute to **system architecture**.  
 
 
----
-## 📊 GitHub Stats
-
-![Sreerag P V's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreeragpv2002&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sreeragpv2002&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sreeragpv2002&theme=tokyonight)
 
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sreeragpv2002&label=Profile%20views&color=0e75b6&style=flat" alt="sreerag pv" /> </p>
-
----
 
 ### 🛠️ Tech Stack & Skills
 
