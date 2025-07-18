@@ -2,7 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&vCenter=true&width=800&lines=Python+Backend+Developer+@Nthindex;Django+%7C+DRF+%7C+API+Development;Database+Optimization+%7C+Security+Best+Practices;Building+Scalable+Backend+Systems!🚀)
 
-I’m a **Python Backend Developer** at [Nthindex Software Solutions](https://www.nthindex.com), specializing in **Django, REST APIs, and database performance**. My passion lies in architecting robust, secure backend systems and solving complex technical challenges with clean, efficient code.
+I’m a **Python Backend Developer**, specializing in **Django, REST APIs, and database performance**. My passion lies in architecting robust, secure backend systems and solving complex technical challenges with clean, efficient code.
 
 ### 🎓 Background
 - **B.Voc in Data Science**  
@@ -10,12 +10,6 @@ I’m a **Python Backend Developer** at [Nthindex Software Solutions](https://ww
 - **Professional Training**: Django REST Framework, PostgreSQL/MySQL  
 
 ### 💼 Current Role  
-**Python Web Developer @ Nthindex Software Solutions LLP** (From 18-05-2024)    
-- Design & develop **high-performance RESTful APIs** using Django/DRF.  
-- Optimize **SQL queries** (PostgreSQL/MySQL) and ensure database efficiency.  
-- Implement **authentication, authorization, and security** best practices.  
-- Debug, troubleshoot, and resolve backend issues.  
-- Mentor interns and contribute to **system architecture**.  
 
 
 
